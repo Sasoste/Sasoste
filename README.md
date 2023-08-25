@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-david38.vercel.app/](https://portfolio-david38.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://portfolio-david38.vercel.app/](https://portfolio-david38.vercel.app/)
 
 <h3 align="left">Languages and Tools:</h3>
 
